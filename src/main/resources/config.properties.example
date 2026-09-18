@@ -1,0 +1,7 @@
+mail.username=user@gmail.com
+mail.password=xxxx xxxx xxxx xxxx
+
+# Optional (default values)
+mail.smtp.host=smtp.gmail.com
+mail.smtp.port=587
+draw.budget=30
